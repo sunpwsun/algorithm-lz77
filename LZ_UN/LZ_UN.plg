@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LZ_UN - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\yun\LOCALS~1\Temp\RSP157.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/LZ_UN.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\yun\바탕 화면\(토플)[mp3] 토플 TOEFL Hackers Listening Tape(10개)\LZ_UN\lz_un.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\yun\LOCALS~1\Temp\RSP157.tmp" 
+Creating temporary file "C:\DOCUME~1\yun\LOCALS~1\Temp\RSP158.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/LZ_UN.pdb" /debug /machine:I386 /out:"Debug/LZ_UN.exe" /pdbtype:sept 
+".\Debug\lz_un.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\yun\LOCALS~1\Temp\RSP158.tmp"
+<h3>Output Window</h3>
+Compiling...
+lz_un.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+LZ_UN.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

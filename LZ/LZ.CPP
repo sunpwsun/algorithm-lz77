@@ -1,0 +1,214 @@
+#include <stdio.h>
+#include <memory.h>
+#include <string.h>
+#include <stdlib.h>
+
+#include "LZ.h"
+
+FILE*	src;
+FILE*	dst; 
+long	filesize;
+long	dic_cnt;
+long	dat_cnt;
+
+byte*	tmp;
+
+byte*	COMPRESSED_DATA;
+
+long	win_point[ 2 ] = { 0, WIN_SIZE - 1 };
+long	buf_point[ 2 ] = { WIN_SIZE, WIN_SIZE + BUF_SIZE - 1 };
+long	dst_point = 0;
+
+void encode();
+void move_buffer( int );
+void move_window( int );
+void copy_data( int, int );
+void copy_dict( int, int );
+
+void main( int argc, char* argv[] ) {
+
+	dat_cnt = dic_cnt = 0;
+
+/*
+	if( ( src = fopen( argv[ 1 ], "rb" ) ) == NULL ) {
+
+		printf( "cannot find file\n" );
+		return;
+	}
+*/
+	src = fopen( "a.bmp", "rb" );
+ 
+	fseek( src, 0, SEEK_END);
+	filesize = ftell( src );
+	fseek( src, 0, SEEK_SET);
+
+	tmp = ( byte* )malloc( filesize + WIN_SIZE );
+	memset( tmp, 0, filesize + WIN_SIZE );
+
+	fread( ( void* )( tmp + WIN_SIZE ), filesize, 1, src );
+	fclose( src );
+
+
+	if( filesize < 1000000 ) {
+
+		COMPRESSED_DATA = ( byte* )malloc( 10000000 );
+		memset( ( void* )COMPRESSED_DATA, 0, 10000000 );
+	}
+	else {
+
+		COMPRESSED_DATA = ( byte* )malloc( filesize * 2 );
+		memset( ( void* )COMPRESSED_DATA, 0, filesize * 2);
+	}
+
+	while( win_point[ 1 ] < WIN_SIZE + filesize - 1 ) {
+
+		encode();
+	}
+	
+
+
+	dst = fopen( "test.lz", "wb" );
+	long cnt = ( dat_cnt * 9 + dic_cnt * 26 - 1 ) / 8 + 1;
+	fwrite( COMPRESSED_DATA, 1, cnt, dst );
+	fclose( dst );
+
+	free( ( void* )COMPRESSED_DATA );
+	free( ( void* )tmp );
+
+}
+
+void encode() {
+
+	int i, j;
+
+	for( i = BUF_SIZE - 1 ; i > 1 ; i-- ) {		// 버퍼중에 0번 바이트만 비교하는것은 의미없음
+		
+		j = ( buf_point[ 0 ] >= WIN_SIZE * 2 ) ? 0 : ( WIN_SIZE * 2 - buf_point[ 0 ] );
+		for( j ; j <= WIN_SIZE - i ; j++ ) {
+
+			if( 0 == memcmp( ( void* )( tmp + win_point[ 0 ] + j ), ( void* )( tmp + buf_point[ 0 ] ), i ) ) {
+
+				// 윈도우내에 버퍼와 동일한 문자열이 존재
+
+				copy_dict( i, j );	// i : lenght,   j : offset
+
+				dic_cnt++;
+
+
+				move_buffer( i + 1 );
+				move_window( i + 1 );
+
+				return;
+			}
+		}
+	}
+
+	// 윈도우내에 동일한 문자열이 존재하지 않음
+
+	copy_data( 0, 0 );
+	
+	dst_point++;
+
+
+	move_buffer( 1 );
+	move_window( 1 );
+
+	dat_cnt++;
+
+}
+
+
+void move_buffer( int n ) {
+
+	buf_point[ 0 ] += n;
+	buf_point[ 1 ] += n;
+}
+
+
+void move_window( int n ) {
+
+	win_point[ 0 ] += n;
+	win_point[ 1 ] += n;
+}
+
+
+void copy_data( int type, int length ) {
+
+	long s = dat_cnt * 9 + dic_cnt * 26;
+	int l = ( type == 0 ) ? 1 : 18;
+
+	// data값 얻어와야 함
+	byte d;
+	memcpy( ( void* )&d, ( void* )( tmp + buf_point[ 0 ] + length ), 1 );
+
+	// 첫번째
+	COMPRESSED_DATA[ ( s + l ) / 8 ] = COMPRESSED_DATA[ ( s + l ) / 8 ] | ( d >> ( ( s + l ) % 8 ) );
+
+	// 두번째
+	COMPRESSED_DATA[ ( s + l ) / 8 + 1 ] = ( d << ( 8 - ( ( s + l ) % 8 ) ) );// >> ( 8 - ( ( s + l ) % 8 ) );
+}
+
+
+void copy_dict( int i, int j ) {
+
+	long		s = dat_cnt * 9 + dic_cnt * 26;
+
+	short	offset;
+	byte	length;
+
+	length = ( byte )i;
+//	memcpy( &data, tmp + dst_point, 1 );
+
+	// type 저장
+	COMPRESSED_DATA[ s / 8 ] = COMPRESSED_DATA[ s / 8 ] | ( 0x80 >> ( s % 8 ) );
+
+	// offset 저장
+	if( ( s + 1 ) % 8 > 4 ) {		// 5,6,7 일때
+
+		// 세 바이트에 걸쳐서 offset이 저장 됨
+
+		// 첫번째 바이트
+		offset = ( short )j;
+		COMPRESSED_DATA[ ( s + 1 ) / 8 ] = COMPRESSED_DATA[  ( s + 1 ) / 8 ] | ( offset >> ( 4 + ( ( s + 1 ) % 8 ) ) );
+
+		// 두번째
+		offset = ( short )j;
+		COMPRESSED_DATA[ ( s + 1 ) / 8 + 1 ] = ( byte )( offset >> ( ( s + 1 ) % 8 - 4 ) );
+
+		// 세번째
+		offset = ( short )j;
+		COMPRESSED_DATA[ ( s + 1 ) / 8 + 2 ] = ( byte )( offset << ( 12 - ( ( s + 1 ) % 8 ) ) );
+	}
+	else {
+
+		// 두 바이트에 걸쳐서 offset이 저장
+
+		// 첫번째 바이트
+		offset = ( short )j;
+		COMPRESSED_DATA[ ( s + 1 ) / 8 ] = COMPRESSED_DATA[ ( s + 1 ) / 8 ] | ( offset >> ( 4 + ( ( s + 1 ) % 8 ) ) );
+
+		// 두번째
+		offset = ( short )j;
+//		COMPRESSED_DATA[ ( s + 1 ) / 8 + 1 ] = ( byte )( offset << ( 8 - ( ( s + 1 ) % 8 ) ) );
+		COMPRESSED_DATA[ ( s + 1 ) / 8 + 1 ] = ( byte )( offset << ( 4 - ( ( s + 1 ) % 8 ) ) );
+	}
+	
+	// length 저장
+
+	if( ( s + 13 ) % 8 < 4 ) {
+
+		// length가 한 바이트 안에 저장
+		COMPRESSED_DATA[ ( s + 13 ) / 8 ] = COMPRESSED_DATA[ ( s + 13 ) / 8 ] | ( length << ( 3 - ( s + 13 ) % 8 ) );
+	}
+	else {
+
+		// length가 두 바이트에 걸쳐서 저장
+		COMPRESSED_DATA[ ( s + 13 ) / 8 ] = COMPRESSED_DATA[ ( s + 13 ) / 8 ] | ( length >> ( ( s + 13 ) % 8 - 3 ) );
+		COMPRESSED_DATA[ ( s + 13 ) / 8 + 1 ] = length << ( 11 - ( s + 13 ) % 8 );
+	}
+
+	// data 저장
+
+	copy_data( 1, i );
+
+}

@@ -1,0 +1,1025 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv=Content-Type content="text/html;charset=euc-kr"><meta http-equiv=Cache-Control content=No-Cache><meta http-equiv=Pragma	content=No-Cache>
+<title>네이버 :: 세상의 모든 지식, 네이버</title>
+<style type="text/css">
+body{background-color:#ffffff;margin:0;text-align:center;}
+body, div, td, li{font-size:12px;color:#4F4F30}body, div, td, li, .p11{font-family:돋움,Dotum,AppleGothic,sans-serif}
+b{letter-spacing:-1px}a{color:#4F4F30;text-decoration:none}a:hover{color:#438A01;text-decoration:underline}img{border:0 none}
+#tmap table td a:visited, #cc a:visited, #servicemap table td a:visited{color:#87124F}.ls1{letter-spacing:-1px}
+.stockinp, .tbox{border:1px solid #B5B37C}
+.p11{font-size:11px}.p14{font-size:14px}.ln14{line-height:1.4}.ln17{line-height:1.7}
+.c, a.c:link, a.c:visited, a.c:hover, a.c:active{color:#4F4F30}
+.o, a.o:link, a.o:visited, a.o:hover, a.o:active{color:#ED6C1F}
+.b, a.b:link, a.b:visited, a.b:hover, a.b:active{font-weight:bold;letter-spacing:-1px}
+.nv, a.nv:link, a.nv:visited, a.nv:hover, a.nv:active{color:#01498D}
+.tj{font-size:10px;color:ED6C1F}
+#gnb, #schbox, #loginbox, #container, #servicemap, #copyright, #footer{
+	width:784px;
+	position:relative;
+	margin:0 auto;
+	text-align:left
+}
+#gnb{height:57px;}
+#gnb #lg, #gnb #lgr, #gnb #l, #gnb #r{float:left}
+#gnb #l{width:254px;height:57px}
+#gnb #l img{margin:0 0 0 15px;}
+#gnb #lg{width:270px;}
+#gnb #lgr{width:68px;margin:17px 0 0 0}
+#gnb #r{width:185px}
+#gnb #r #t{margin:8px 0 5px 60px;height:17px;visibility:hidden}
+#gnb #r #t, #gnb #r #t2{text-align:right}
+#schbox{
+	height:100px;
+	margin-bottom:5px;
+	background-image:url(http://wstatic.naver.com/w5/bgs1.gif);
+	background-repeat:no-repeat;
+	background-color:#A6EB5A;
+	z-index:15
+}
+#schbox #sb1{height:75px}
+#sl, #sc, #sr{float:left}
+#sl{width:167px}
+#sl img{margin:7px 0 0 11px}
+#sc{width:493px}/* "margin-top"  macIE error*/
+#sc #in{position:relative}
+#sc #in span{position:absolute}
+#c1{left:0px;padding:1 0 0 0}
+#c2{left:90px}
+#c3{left:425px;top:-1px}
+#sr{width:117px;margin-top:13px;line-height:1.6}
+#schbox #sb2{height:24px;padding-left:22px}
+#d1, #d2{float:left;margin-top:2px}
+#d1{width:449px}
+#d2{width:311}
+#schbox a:hover{color:#4F4E2F}
+#schbox a:visited{color:#4F4E2F}
+#loginbox{
+	height:100px;
+	z-index:7
+}
+#loginbox span{position:absolute}
+#ll, #ll2, #lc, #lr{height:100px;text-align:center}
+#ll table, #ll2 table, #lc table, #lr table{margin:0 auto}
+#ll{left:0;	width:197px;border:1px solid #D3D29C;background-color:#F5F4D6;}
+#ll2{
+	border:4px solid #CCECA9;
+	background-color:#ffffff;
+	left:0;
+	width:191px;
+	height:167px;
+	z-index:7
+}
+#lc{left:200px;	width:390px;z-index:8;}
+#lr{left:593px;width:204px;z-index:7;}
+#container{	height:664px;margin-bottom:20px;z-index:1}
+#cl, #cl2, #cc, #cr{float:left}
+#cl, #cl2{width:197px;border-right:2px solid #E4E4E4;z-index:9;margin-top:10px}
+#cl{height:665px}
+#cl2{margin-top:79px;height:587px}
+#cc{width:377px;margin-left:9px;margin-top:10px;z-index:8}
+#cr{width:191px;margin-left:5px;margin-top:5px;z-index:7}
+#servicemap{clear:both}
+.sbl{border-bottom:2px solid #E1E1E1;padding:0 4px 0 0}
+.bln{height:1px;background-color:#E9E9E9}
+.fl{float:left}.fr{float:right}
+.h{height:19px}
+#lwd{width:188px}
+#lwd2{width:184px}
+.xbx{background-color:#ffffff;font-size:11px;color:#999999;text-align:center;padding-top:4px}
+.xbx a, .p11s a{letter-spacing:-1px;font-size:11px}
+.ba{color:#BDBDBD;font-size:11px;}
+.newsfrm{width:377px;text-align:right}
+.newsfrm table, .news{width:371px}
+.newst ul{margin:3px 0 0 0;padding:0 0 0 0}
+.newst ul li{margin:0 0 6px 1px;padding:0 0 0 7px;}
+.news a, .newst a{font-family:굴림}
+.news .plist{line-height:19px;}
+.news{height:98px;position:relative;border-top:1px solid #E9E9E9}
+.news img, .bxn img{margin-bottom:3px;display:block}
+.news .nxt{top:66px;left:320px;position:absolute}
+.news .photo{float:left;width:113px;text-align:center}
+.news .photo a{color:#000000}
+.news .photo img{margin:6px 0 4px 0}
+.news .plist{float:left;width:245px;margin-left:8px;text-align:left;margin-top:6px}
+.newst ul li span, .news .plist span{font-size:11px;color:#959684}
+.stock, .stock2{width:377px;height:30px;position:relative;margin-bottom:7px;background-color:#EFEFEF}
+.stock span, .stock2 span{position:absolute}
+.stock #s1{top:7px;left:5px}
+.stock #s11{top:9px;left:39px}
+.stock #s2{top:4px;right:5px}
+.stock #s21{top:9px;left:165px}
+.stock #s22{top:5px;right:5px}.stock #s22 .stockinp{width:41px;height:18px;font-size:11px;font-family:돋움}
+.stock2 #s1{top:9px;left:10px}
+.stock2 #s2{top:11px;left:210px}
+.stock #s1 img{width:30px;height:14px;margin:0 4px 0 0}
+.cnt_t{width:377px;height:4px;background:url(http://wstatic.naver.com/w/d/bt.gif) no-repeat}
+.cnt_b{width:377px;height:4px;background:url(http://wstatic.naver.com/w/d/bb.gif) no-repeat}
+.cnt ul{margin:0 0 0 0;padding:0 0 0 10px}
+.cnt ul li, .newst ul li{
+	background:url("http://wstatic.naver.com/w/d/sq.gif") no-repeat 0 4px;
+	list-style-position:outside;
+	list-style-type:none;
+}
+.cnt ul li{margin:0 0 4px 0;padding:0 0 0 7px;}
+.#sc5{
+	background-image:none;
+	color:#999999;
+	font-size:11px;
+}
+.#sc5 a{font-size:12px}
+.bx{border-left:1px solid #DEDEDE;border-right:1px solid #DEDEDE}
+.crstj{
+	width:184px;
+	text-align:center;
+	margin:9px 0 10px 0;
+}
+.p12s a{letter-spacing:-1px}
+.gy, a.gy:link, a.gy:visited, a.gy:hover, a.gy:active{color:#333333}
+.le0{letter-spacing:0px}
+.log01, a.log01:link, a.log01:visited{color:#4F5031}
+.log02, a.log02:link, a.log02:visited{color:#268800}
+.log03, a.log03:link, a.log03:visited{color:#03488B}
+.log04, a.log04:link, a.log04:visited{color:#F22C22}
+.log05, a.log05:link, a.log05:visited{color:#727214}
+#tmap table td, #servicemap table td{font-family:굴림}
+#mb_height{height:7px}
+.verdana{font-family:verdana}
+.idcstp{margin:0 -1 0 -3}.idcsth{height:3px}
+.adgr{font-size:10px;font-family:verdana;font-weight:bold}
+.adgr, a.adgr:link, a.adgr:visited, a.adgr:hover, a.adgr:active{color:#458E01}
+#cr #ppl{
+    width:191px;
+    height:150px;
+    margin-bottom:6px;
+    background-color:#ffffff
+}
+img.preload{visibility:hidden;width:0;height:0;position:absolute}
+#vod{position:relative;width:377px}
+#vod a{font-size:11px}
+#vod span{position:absolute;height:105px;text-align:center;width:125px;}
+#vod span img{width:106px;height:76px;border:2px solid #000000;display:block;margin:0 auto;margin-bottom:5px;margin-top:2px}
+#vod .b{font-weight:bold;letter-spacing:-1px}
+#vod #thum1{top:0;left:0}
+#vod #thum2{top:0;left:125px;width:129px;border-left:1px solid #D5D5D5;border-right:1px solid #D5D5D5}
+#vod #thum3{top:0;left:256px}
+</style>
+<!--[if IE]><style>#cr{width:191px;margin-left:10px}#container{height:0px;margin-bottom:20px}#ll2{width:197px;height:0;}.biz{width:184px}.idcstp{margin:margin:-2 -1 -2 -3}.idcsth{height:1px}.news .photo img{margin:6px 0 4px 0}#gnb #r #t{visibility:visible}</style><![endif]-->
+</head>
+<img src="http://wstatic.naver.com/w5/btn_schH.gif" class="preload"><img src="http://wstatic.naver.com/w5/btn_schA.gif" class="preload">
+<script src="/js/n200604101922.js"></script>
+<script language=JavaScript>
+<!--
+document.domain = "naver.com";
+var isstereo = false;
+var userinput = 0;
+var isLogin = 0;
+var showLeftAd = 0;
+var keytext = new Array();
+var keystatus = 0;
+
+document.onmousedown = setPocket;
+document.write("<iframe src='http://lcs.naver.com/u{"+document.URL+"}' width=0 height=0 frameborder=0></iframe>");
+//-->
+</script>
+</head>
+<body onLoad='onloadz();'>
+<div id=adoext style=position:absolute;left:50%;top:0;z-index:15;><div id=adext></div></div>
+<div id=gnb>
+<div id=l><img src=http://wstatic.naver.com/w5/n_tl2-4.gif width=199 height=50 usemap=#n_tl2></div><div id=lg><a href=http://wrd.naver.com/rd.nhn?tb=www&id=1111128414><img src=http://wstatic.naver.com/w/n_c600.gif width="266" height="56"></a></div><div id=lgr><a href="http://wrd.naver.com/rd.nhn?tb=www_r&id=1144912492"><img src="http://wstatic.naver.com/t/2006/0413/20060413161422.gif" width="68" height="34"></a></div>
+<div id=r><div id=t><a href=/r/t?/?mkhome onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.naver.com');"><img src=http://wstatic.naver.com/w/n_tr1.gif width=111 height=17></a></div><div id=t2><img src=http://wstatic.naver.com/w5/n_tr26.gif width=179 height=25 usemap=#n_tr2></div></div>
+</div>
+<map name="n_tl2"><area coords="0,34,25,50" href="/r/t?mail" alt="메일"><area coords="36,34,63,50" href="/r/t?cafe" alt="카페"><area coords="74,34,112,50" href="/r/t?blog" alt="블로그"><area coords="122,34,162,50" href="/r/t?kin" alt="지식iN"><area coords="169,34,204,50" href="/r/t?shopping" alt="지식쇼핑"></map>
+<map name="n_tr2"><area alt="쥬니버" coords="0,0,58,25" href=/r/t?jr><area alt="한게임" coords="62,0,119,25" href=/r/t?www.hangame.com target=_blank><area alt="아크로드" coords="124,0,179,25" href=/r/t?archlord></map>
+<div id=schbox>
+<div id=sb1>
+<div id=sl>
+<a href="http://wrd.naver.com/rd.nhn?tb=search_left_img&id=1145348192&navertc=6"><img src="http://wstatic.naver.com/t/2006/0418/20060418171541.gif" width="139" height="45"></a></div>
+<div id=sc>
+<form name=search method=get action=http://search.naver.com/search.naver onSubmit="return selectAction(this);"><img width=1 height=10><br>
+<div id=in><span id=c1><select name=where tabindex=1 style="width:82px" onChange="search.frm.value=t2"> <option value=nexearch>통합검색</option> <option value=web>웹</option> <option value=site>사이트</option> <option value=kin>지식iN</option> <option value=doc>전문자료</option> <option value=cafeblog>카페&middot;블로그</option> <option value=post>블로그</option> <option value=article>카페글</option> <option value=dic>사전</option> <option value=100>백과사전</option> <option value=endic>영어사전</option> <option value=krdic>국어사전</option> <option value=jpdic>일어사전</option> <option value=hanja>한자사전</option> <option value=image>이미지</option> <option value=video>동영상</option> <option value=music>음악</option> <option value=news>뉴스</option> <option value=book>책</option> <option value=shop>쇼핑</option> <option value=local>지역</option> <option value=mypc>내PC</option> </select></span><span id=c2><INPUT accesskey=s style="WIDTH: 330px" name=query tabindex=2 onfocus="return setTextBox(0);" onmousedown="setTextBox(1);" onkeydown="setTextBox(1);" style="BACKGROUND-POSITION: left 50%; BACKGROUND-IMAGE: url(http://wstatic.naver.com/www/images3/cursor.gif); BACKGROUND-REPEAT: no-repeat"></span>	<span id=c3><input type=image src=http://wstatic.naver.com/w5/btn_schL.gif tabindex=3 style="width:55px;height:25px" title="검색" onmouseover="this.src='http://static.naver.com/w5/btn_schH.gif'" onmouseout="this.src='http://static.naver.com/w5/btn_schL.gif'" onmousedown="this.src='http://static.naver.com/w5/btn_schA.gif'"></span></div>
+<input type=hidden name=frm value=t1>
+</form>
+<div style="margin:30 0 0 0"><img src=http://wstatic.naver.com/w5/btn_sch73.gif width=479 height=20 usemap=#sch></div>
+<script>Init();</script>
+</div>
+<map name=sch><area coords="0,0,45,20" href="javascript:click(3);" alt="지식iN"><area coords="49,0,106,20" href=javascript:click(4); alt="전문자료"><area coords="112,0,140,20" href=javascript:click(18); alt="책"><area coords="146,0,180,20" href=javascript:click(8); alt="사전"><area coords="197,0,231,20" href=javascript:click(20); alt="지역"><area coords="237,0,273,20" href=javascript:click(17); alt="뉴스"><area coords="278,0,313,20" href=javascript:click(19); alt="지식쇼핑"><area coords="330,0,377,20" href=javascript:click(2); alt="사이트"><area coords="382,0,428,20" href=javascript:click(14); alt="이미지"><area coords="433,0,480,20" href=javascript:click(21); alt="내pc"></map>
+<div id=sr>
+<a href="http://wrd.naver.com/rd.nhn?tb=search_right_text1&id=1111139112">지식검색홈</a><br>	
+<a href="http://wrd.naver.com/rd.nhn?tb=search_right_text2&id=1143787573" ><b>네이버 Open API</b></a>	
+</div>
+</div>
+<div id=sb2>
+<div id=d1><img src=http://wstatic.naver.com/w/bu_aw.gif width=3 height=6 style="margin:0 0 2 0"> <a href=/r/m?blog><b>블로그</b></a><b> : </b> <a href=http://wrd.naver.com/rd.nhn?tb=blog1&id=1145199944>은하철도999의 9가지 미스터리</a> <span>|</span> <a href=http://wrd.naver.com/rd.nhn?tb=blog2&id=1145272850>우리는 이렇게 잔다~</a></div><div id=d2>
+
+<style>
+.search_ranking {WIDTH: 300px; POSITION: relative; HEIGHT: 18px}
+.search_ranking #list {WIDTH: 175px; HEIGHT: 18px;z-index:1}
+.search_ranking #list SPAN {POSITION: absolute}
+.search_ranking H3 {POSITION: absolute;z-index:2}
+.search_ranking H3 {PADDING:1px 0 0 10px; FONT-SIZE: 12px; BACKGROUND: url(http://wstatic.naver.com/w/bu_aw.gif) no-repeat 0px 3px; LEFT: 0px; MARGIN: 0px; LETTER-SPACING: -1px; TOP: 0;height:23px}
+.search_ranking #list .txt {PADDING-LEFT: 20px; LEFT: 125px; PADDING-TOP: 1px}
+.search_ranking #list .r01 {BACKGROUND: url(http://static.naver.com/w5/num_topRank01.gif) no-repeat 0px 0px}
+.search_ranking #list .r02 {BACKGROUND: url(http://static.naver.com/w5/num_topRank02.gif) no-repeat 0px 0px}
+.search_ranking #list .r03 {BACKGROUND: url(http://static.naver.com/w5/num_topRank03.gif) no-repeat 0px 0px}
+.search_ranking #list .r04 {BACKGROUND: url(http://static.naver.com/w5/num_topRank04.gif) no-repeat 0px 0px}
+.search_ranking #list .r05 {BACKGROUND: url(http://static.naver.com/w5/num_topRank05.gif) no-repeat 0px 0px}
+.search_ranking #list .r06 {BACKGROUND: url(http://static.naver.com/w5/num_topRank06.gif) no-repeat 0px 0px}
+.search_ranking #list .r07 {BACKGROUND: url(http://static.naver.com/w5/num_topRank07.gif) no-repeat 0px 0px}
+.search_ranking #list .r08 {BACKGROUND: url(http://static.naver.com/w5/num_topRank08.gif) no-repeat 0px 0px}
+.search_ranking #list .r09 {BACKGROUND: url(http://static.naver.com/w5/num_topRank09.gif) no-repeat 0px 0px}
+.search_ranking #list .r10 {BACKGROUND: url(http://static.naver.com/w5/num_topRank10.gif) no-repeat 0px 0px}
+.search_ranking #list .rank {PADDING-LEFT: 17px; FONT-SIZE: 11px; LEFT: 263px; font-familly: verdana;width:30px;height:9px}
+.search_ranking #list .up {BACKGROUND: url(http://static.naver.com/n/cmn/ico_aw_up01.gif) no-repeat}
+.search_ranking #list .down {BACKGROUND: url(http://static.naver.com/n/cmn/ico_aw_dw01.gif) no-repeat}
+.search_ranking #list .same {BACKGROUND: url(http://static.naver.com/n/cmn/ico_aw_same.gif) no-repeat}
+.search_ranking #list .new {BACKGROUND: url(http://static.naver.com/n/cmn/ico_new04.gif) no-repeat 0 2px}
+
+.RankingList{
+    background-color:#ffffff;
+    width:190px;
+    height:135px;
+    border:2px solid #4F9E06;
+}
+
+a.gray01:link, a.gray01:visited{color:#6D6D6D;text-decoration:none}
+a.gray01:hover, a.gray01:active{color:#6D6D6D;text-decoration:underline}
+a.gray02:link, a.gray02:visited{color:#939393;text-decoration:none}
+a.gray02:hover, a.gray02:active{color:#939393;text-decoration:underline}
+.gray03, a.graa03:link, a.graa03:visited, a.graa03:hover, a.graa03:active{color:#484848}
+.RankingList td.pd01{padding-top:2px}
+.RankingList tr.mouseOver {background: #F3F3F3;}
+.RankingList tr.mouseOut {background: #fff;}
+</style>
+
+<script>
+		quicknewstop = new NvScroll(); 
+		quicknewstop.name = 'quicknewstop'; 
+		quicknewstop.height = 20; 
+		quicknewstop.width  = 300; 
+		quicknewstop.scrollspeed  = 1; 
+		quicknewstop.pausedelay   = 2000; 
+		quicknewstop.pausemouseover = true; 
+
+quicknewstop.add("<span class='txt r01'><a href='http://search.naver.com/search.naver?where=nexearch&query=%C7%C1%B6%F3%C0%CC%BA%F8+%BD%BA%C4%F0&frm=t7'>프라이빗 스쿨</a></span><span class='rank up'>682</span>");
+quicknewstop.add("<span class='txt r02'><a href='http://search.naver.com/search.naver?where=nexearch&query=%C8%AB%C0%CD%C8%B8&frm=t7'>홍익회</a></span><span class='rank new'></span>");
+quicknewstop.add("<span class='txt r03'><a href='http://search.naver.com/search.naver?where=nexearch&query=%C0%AF%C8%F1%BF%AD&frm=t7'>유희열</a></span><span class='rank up'>188</span>");
+quicknewstop.add("<span class='txt r04'><a href='http://search.naver.com/search.naver?where=nexearch&query=%B5%B6%B5%B5&frm=t7'>독도</a></span><span class='rank up'>86</span>");
+quicknewstop.add("<span class='txt r05'><a href='http://search.naver.com/search.naver?where=nexearch&query=%C0%CC%C6%AF+%C1%B9%BE%F7%BB%E7%C1%F8&frm=t7'>이특 졸업사진</a></span><span class='rank up'>53</span>");
+quicknewstop.add("<span class='txt r06'><a href='http://search.naver.com/search.naver?where=nexearch&query=%B3%AF%BE%BE&frm=t7'>날씨</a></span><span class='rank up'>10</span>");
+quicknewstop.add("<span class='txt r07'><a href='http://search.naver.com/search.naver?where=nexearch&query=%BF%B5%BE%EE%B5%E8%B1%E2&frm=t7'>영어듣기</a></span><span class='rank up'>62</span>");
+quicknewstop.add("<span class='txt r08'><a href='http://search.naver.com/search.naver?where=nexearch&query=%B9%F6%C1%EE3%C1%FD&frm=t7'>버즈3집</a></span><span class='rank up'>41</span>");
+quicknewstop.add("<span class='txt r09'><a href='http://search.naver.com/search.naver?where=nexearch&query=jms&frm=t7'>jms</a></span><span class='rank up'>62</span>");
+quicknewstop.add("<span class='txt r10'><a href='http://search.naver.com/search.naver?where=nexearch&query=%BC%D2%B8%AE%B9%D9%B4%D9&frm=t7'>소리바다</a></span><span class='rank up'>18</span>");
+
+
+</script>
+
+<div class='search_ranking'>
+    <h3>실시간 인기검색어 :</h3>
+    <div id='list'>
+    <script>
+    </script>
+    </div>
+    
+    <div class="RankingList" id="msg_01" style="position:absolute;display:none;visbility:hidden;top:-8px;left:122px" onMouseOver="msg('msg_01');quicknewstop.stop=true;" onMouseOut="msg_hidden('msg_01',1);quicknewstop.stop=false;">
+        <div id="prints1">
+<table width="172" cellspacing="0" cellpadding="0" border="0" style="margin:2px 0 0 6px">
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_01.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r01' href="http://search.naver.com/search.naver?where=nexearch&query=%C7%C1%B6%F3%C0%CC%BA%F8+%BD%BA%C4%F0&frm=t7" title="프라이빗 스쿨" class="gray01">프라이빗 스쿨</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">682</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td width="121" height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_02.gif" width="14" height="13" alt="1" style="margin:1px 4px -2px 2px"><a id='r02' href="http://search.naver.com/search.naver?where=nexearch&query=%C8%AB%C0%CD%C8%B8&frm=t7" title="홍익회" class="gray01">홍익회</a></td>
+<td width="28" align="center"><img src="http://static.naver.com/n/cmn/ico_new04.gif" width="26" height="9"></td>
+<td width="19" align="center" class="gray03 p11 pd01"></td>
+<td width="4"></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_03.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r03' href="http://search.naver.com/search.naver?where=nexearch&query=%C0%AF%C8%F1%BF%AD&frm=t7" title="유희열" class="gray01">유희열</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">188</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_04.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r04' href="http://search.naver.com/search.naver?where=nexearch&query=%B5%B6%B5%B5&frm=t7" title="독도" class="gray01">독도</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">86</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_05.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r05' href="http://search.naver.com/search.naver?where=nexearch&query=%C0%CC%C6%AF+%C1%B9%BE%F7%BB%E7%C1%F8&frm=t7" title="이특 졸업사진" class="gray01">이특 졸업사진</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">53</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="3" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr><td height="4"></td></tr>
+<tr><td colspan="3" style="padding-left:39px"><a href="javascript:msg('msg_02');" class="gray02 p11">6~10위까지 보기</a><img src="http://static.naver.com/n/cmn/bu_pgarR.gif" width="3" height="5" alt="" style="margin:0 0 1px 4px"></td></tr>
+<tr><td height="2"></td></tr>
+
+</table>
+        </div>
+    </div>
+
+    <div class="RankingList" id="msg_02" style="position:absolute;display:none;visbility:hidden;top:-8px;left:122px" onMouseOver="msg('msg_02');quicknewstop.stop=true;" onMouseOut="msg_hidden('msg_02',1);quicknewstop.stop=false;">
+        <div id="prints2">
+<table width="172" cellspacing="0" cellpadding="0" border="0" style="margin:2px 0 0 6px">
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_06.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r06' href="http://search.naver.com/search.naver?where=nexearch&query=%B3%AF%BE%BE&frm=t7" title="날씨" class="gray01">날씨</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">10</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_07.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r07' href="http://search.naver.com/search.naver?where=nexearch&query=%BF%B5%BE%EE%B5%E8%B1%E2&frm=t7" title="영어듣기" class="gray01">영어듣기</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">62</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_08.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r08' href="http://search.naver.com/search.naver?where=nexearch&query=%B9%F6%C1%EE3%C1%FD&frm=t7" title="버즈3집" class="gray01">버즈3집</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">41</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_09.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r09' href="http://search.naver.com/search.naver?where=nexearch&query=jms&frm=t7" title="jms" class="gray01">jms</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">62</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="4" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr onMouseOver="this.className='mouseOver';" onMouseOut="this.className='mouseOut'">
+<td height="21" class="pd01"><img src="http://static.naver.com/n/cmn/num_10.gif" width="14" height="13" alt="1" style="margin:0 4px -2px 2px"><a id='r10' href="http://search.naver.com/search.naver?where=nexearch&query=%BC%D2%B8%AE%B9%D9%B4%D9&frm=t7" title="소리바다" class="gray01">소리바다</a></td>
+<td align="center"><img src="http://static.naver.com/n/cmn/ico_aw_up01.gif" width="7" height="10"></td>
+<td align="center" class="gray03 p11 pd01">18</td>
+<td></td>
+</tr>
+<tr><td height="1" colspan="3" background="http://static.naver.com/w5/dot_line01.gif"></td></tr>
+<tr><td height="4"></td></tr>
+<tr><td colspan="3" style="padding-left:39px"><a href="javascript:msg('msg_01');" title="소리바다" class="gray02 p11">1~5위까지 보기</a><img src="http://static.naver.com/n/cmn/bu_pgarR.gif" width="3" height="5" alt="" style="margin:0 0 1px 4px"></td></tr>
+<tr><td height="2"></td></tr>
+
+</table>
+        </div>
+    </div>
+
+    <script>
+    quicknewstop.start();
+    </script>
+</div>
+
+</div>
+</div>
+</div>
+<div id=mp_toplayer style='display:none'></div><div id=mp_bodylayer style='display:none'><iframe id=ifr_query name=ifr_query src=http://rtquery.search.naver.com/top/wac.html frameborder=0 marginwidth=0 marginheight=0 topmargin=0 scrolling=no allowTransparency=true></iframe></div>
+<div id=loginbox>
+
+<script language='JavaScript'>var m_url="/r/p?id.naver.com/help/work.php?work=idinquiry", m_text="아이디찾기", m_url2="/r/p?id.naver.com/help/work.php?work=pwinquiry", m_text2="비밀번호찾기";</script>
+
+<span id="ll">
+<style>
+#login{width:178px;height:83px;position:relative;color:#4F4F30;font-size:11px;letter-spacing:-1px;background:url(http://wstatic.naver.com/w5/bg_ltj.gif) no-repeat 0 64px #F5F4D6;font-family:돋움;margin:8px 0 0 11px}
+#login h3{display:none}
+#login span{position:absolute}
+#login label{cursor:pointer}
+#login .id{top:0;left:0}
+#login .id input, #login .pw input{width:116px;height:18px;color:#7B794F;font-size:12px;border:1px solid #B5B37C;font-family:돋움}
+#login .pw{top:21px;left:0}
+#login .mem{top:43px;left:0}
+#login .security{top:43px;left:82px}#login .security label, #login .mem label{display:none}
+#login .login_submit{top:22px;left:123px}
+#login .login_submit input{width:54px;height:18px}
+#login .mypoket{top:4px;left:124px}#login .mypoket a{text-decoration:none;font-size:12px;font-weight:bold;color:#4A4D31}#login .mypoket a:hover{text-decoration:none}
+#login .find_id{top:71px;left:5px}
+#login .join{top:71px;left:129px}#login .join a{font-weight:bold;letter-spacing:-1px;color:#ED6C1F}
+#login .find_id a:link, #login .security a:link, #login .mem a:link, #login .find_id a:visited, #login .security a:visited, #login .mem a:visited{text-decoration:none;color:#4F4F30}
+#login .find_id a:hover, #login .security a:hover, #login .mem a:hover{text-decoration:underline}
+</style>
+<div id="login">
+	<h3>로그인 관련 영역</h3>
+	<form name=NidLogin AUTOCOMPLETE="off" action=http://id.naver.com/nidlogin.login method=post onSubmit="return checkAction();">
+	<span class="id"><input type="text" name="id" id="idObj" maxlength=12 size=12 tabindex=4 title="아이디" accesskey="l" style="background:url(http://static.naver.com/w5/loginBox_Tid.gif) no-repeat 5px 3px #fff" onFocus="this.style.backgroundImage='url(none)';return dc();" onKeyPress="userinput=1;"></script></span>
+	<span class="pw"><input id="pwdObj" type="password" name="pw" tabindex=5 value="" title="비밀번호" style="background:url(http://static.naver.com/w5/loginBox_Tpw.gif) no-repeat 5px 3px #fff" onKeyPress='checkCapsLock();' onFocus="this.style.backgroundImage='url(none)';userinput=2;return dc();"></span>
+	<span class="mem"><input type="Checkbox" name="sID" tabindex=6 id="sidObj"><label for="sidObj">아이디저장</label><a href="javascript:openWindow('http://id.naver.com/plogin/id_cookie_saved.html', 'saveid', '410', '445');">아이디저장</a></span>
+    <span class="security"><input type="Checkbox" tabindex=7 name="sLogin" id="csLogin"><label for="csLogin">보안접속</label><a href="javascript:openWindow('http://id.naver.com/plogin/https_login.htm', 'security', '410', '480');">보안접속</a></span>
+	<span class="login_submit"><input type="Image" src="http://wstatic.naver.com/w3/btn_login.gif" title="로그인 하기"></span>
+	<span class="mypoket"><a href="javascript:go_help(1);">마이포켓</a></span>
+	<span class="find_id"><script>document.write("<a href=\""+m_url+"\">아이디</a>&nbsp;/&nbsp;<a href=\""+m_url2+"\">비밀번호 찾기</a>");</script></span>
+	<span class="join"><a href="http://id.naver.com/nidregister.form?url=http://www.naver.com">회원가입</a></span>
+	<input type="hidden" name="ssllogin" value="0">
+	<input type="hidden" name="saveID" value="0">
+	</form>
+</div>
+<div id='CapslockInfo' style='display:none; position:absolute; overflow:hidden; left:0px; top:0px; width:208; height: 59;'><table border='0' cellpadding='0' cellspacing='0'><tr><td id='capslockNotice'></td></tr></table></div> 
+</span>
+<script>ssl_check();sid_check();</script>
+
+<span id=lc>
+<table width=390 height=100 cellpadding=0 cellspacing=0><tr><td><div id=adtop></div><iframe src=http://nv1.ad.naver.com/adshow?unit=002B width=390 height=100 border=0 frameborder=0 scrolling=no marginheight=0 marginwidth=0 id=f390100></iframe></td></tr></table>
+</span>
+<span id=lr>
+<div id=adbrand></div>
+<iframe src="http://ia.www.naver.com/ia.nhn" width="204" height="100" border="0" frameborder=0 scrolling=no marginheight=0 marginwidth=0 align=center></iframe>
+</span>
+</div>
+<div id=container>
+
+
+
+<div id="cl">
+<div id=tmap><table id=lwd cellspacing=0 cellpadding=0>
+<tr><td class=sbl height=20 colspan=2><div class="fl"><img src="http://wstatic.naver.com/w/d/tnl051.gif" width=74 height=13 style="margin:0 0 5px 1px"></div><div class="fr" style="margin:3px 0 0 0"><a href=#dir class="p11 ls1 c"><img src=http://wstatic.naver.com/w/bu_aw.gif width=3 height=6 style="margin:0 4px 1px 0">더보기</a></div></td></tr>
+<tr><td height=6></td></tr>
+<tr>
+<td width=44 class=h><a href=/r/m?search style=text-decoration:none><span class="o b">검　색</span></a></td>
+<td><a href=/r/m?dir>디렉토리</a> <a href=/r/m?people><b>인물</b></a> <a href=/r/m?local>지역</a> <a href=/r/m?book>책</a></td>
+</tr>
+<tr>
+<td class=h><span class="o b">이야기</span></td>
+<td><a href=/r/m?cafe><b>카페</b></a> <a href=/r/m?blog>블로그</a> <a href=/r/m?boom>붐</a> <a href=/r/m?new.photo>포토</a></td>
+</tr>
+<tr>
+<td class=h><a href=/r/m?finance class="o b" style=text-decoration:none><span class="o b">금　융</span></a></td>
+<td><a href=/r/m?stock>증권</a> <a href=/r/m?land><b>부동산</b></a> <a href=/r/m?money>재테크</a> <a href=/r/m?loan>대출</a></td>
+</tr>
+<tr>
+<td class=h><span class="o b">생　활</span></td>
+<td><a href=/r/m?bbs.miz>미즈생각</a> <a href=/r/m?cook>요리</a> <a href=/r/m?travel>여행</a> <a href=/r/m?worldtown><b>월드</b></a></td>
+</tr>
+<tr>
+<td class=h><span class="o b">정　보</span></td>
+<td><a href=/r/m?job>취업</a> <a href=/r/m?auto>자동차</a>  <a href=/r/m?file>자료실</a> <a href=/r/m?enjoyjapan><b>일본</b></a></td>
+</tr>
+<tr>
+<td class=h><span class="o b">오　락</span></td>
+<td><a href=/r/m?movie>영화</a> <a href=/r/m?music><b>뮤직</b></a> <a href=/r/m?vod>VOD</a> <a href=/r/m?comicmall>만화</a></td>
+</tr>
+<tr>
+<td class=h><a href=/r/m?mobile style=text-decoration:none><span class="o b">휴대폰</span></a></td>
+<td><a href=r/m?mobile/phonedeco/ring/>컬러링</a> <a href=/r/m?mobile/phonedeco/bell/>벨</a> <a href=/r/m?mobile.naver.com/message/sms>문자</a> <a href=/r/m?phone/><b>네이버폰</b></a></td>
+</tr>
+<tr>
+<td class=h><span class="o b">내PC</span></a></td>
+<td><a href=r/m?desktop>데스크톱</a> <a href=/r/m?toolbar><b>툴바</b></a> <a href=/r/m?security>PC보안</a></td>
+</tr>
+<tr><td class=bln colspan=2></td></tr>
+<tr><td height=4></td></tr>
+<tr>
+<td class=h><a href=/r/m?jr style=text-decoration:none><font color=0156C2><b>쥬</b></font><font color=F36829><b>니</b></font><font color=F71808><b>버</b></td>
+<td><a href=/r/m?jr/homework>숙제</a> <a href=/r/m?jr/farm/><b>동물농장</b></a> <a href=/r/m?jr/game>게임</a> <a href=/r/m?studyroom.jr/preschool/>유아</a></td>
+</tr>
+<tr>
+<td class=h><a href=/r/m?www.hangame.com style=text-decoration:none><span class="nv b">게　임</span></a></td>
+<td><a href=/r/m?archlord>아크로드</a> <a href="/r/m?kwonho.hangame.com" target=_blank><b>권호</b></a> <a href=/r/m?flash.hangame.com/ target=_blank>플래시</a></td>
+</tr>
+</table></div>
+<!-- AD flash -->
+<div class=crstj><iframe src=http://nv3.ad.naver.com/adshow?unit=002E width=170 height=13 border=0 frameborder=0 scrolling=no marginheight=0 marginwidth=0></iframe></div>
+<iframe src="http://nv3.ad.naver.com/etext0126.html" width="184" height="77" border=0 frameborder=0 scrolling=no marginheight=0 marginwidth=0></iframe>
+<!-- //AD flash -->
+<!-- BIZ -->
+<style>
+#todayBook{width:184px;height:110px;background-color:#EFEFEF;position:relative;margin-bottom:15px;}
+#todayBook h3{padding:0;	margin:0;	float:left;	width:70px;	height:26px;}
+#todayBook h3 img{margin:6px 0 0 6px}
+#todayBook em{float:right;font-style:normal;margin:8px 7px 0 0}
+#todayBook em a{font-size:11px;text-decoration:none;font-family:돋움;color:#4F4F30}
+#todayBook #cnt{clear:both;width:174px;height:79px;background-color:#fff;margin:0 0 0 5px;}
+#todayBook #cnt img{width:174px;height:79px}
+</style>
+<div id="todayBook">	<h3><a href="http://wrd.naver.com/rd.nhn?tb=todaybook&id=1140417272&navertc=6"><img src="http://wstatic.naver.com/t/2006/0220/20060220153425.gif" alt="오늘의 책" border="0"></a></h3>
+	<em><a href="http://wrd.naver.com/rd.nhn?tb=todaybook&id=1140417333&navertc=6">더보기</a></em>
+	<div id="cnt"><a href="http://wrd.naver.com/rd.nhn?tb=todaybook&id=1145337669&navertc=6"><img src="http://wstatic.naver.com/t/2006/0418/20060418215929.gif" alt="오늘의 책" border="0"></a></div>
+</div>
+
+<style>
+#Business{width:188px;height:54px;background-color:#fff;position:relative}
+#Business h3{padding:0;margin:0;background:url(http://static.naver.com/w5/tnlBusiness.gif) no-repeat 2px -1px;float:left;width:50px;height:16px;}
+*html #Business h3{height:19px}
+#Business h3 span{display:none}
+#Business em{float:right;font-style:normal;margin:0 4px 0 0;font-size:11px;color:#999999;}
+#Business em a{font-size:11px;font-family:돋움;color:#4F4F30;letter-spacing:-1px;line-height:11px}
+#Business #list{clear:both;	border-top:2px solid #E1E1E1}
+#Business #list ul{padding:4px 0 0 0;margin:0} 
+#Business #list li{	padding:0;	list-style:none;margin:0 0 5px 1px;	font-size:12px;	line-height:1;}
+#Business #list li a{color:#4F4F30;font-size:12px}
+.b{font-weight:bold;letter-spacing:-1px}
+</style>
+<div id="Business">
+	<div id="header">
+		<h3><span>비지니스</span></h3>
+	<em><a href="/r/b?changup">창업</a> | <a href="/r/b?loan" class="b">대출</a> | <a href="/r/b?security">보안</a> | <a href="/r/b?fortune">운세</a></em>
+
+	</div>
+	<div id="list">
+		<ul>
+	<li>· <a href="http://wrd.naver.com/rd.nhn?tb=bizcontent&id=1142216549&navertc=6">[소호] 무료쿠폰으로 옥션판매</a></li>
+	<li>· <a href="http://wrd.naver.com/rd.nhn?tb=bizcontent&id=1141017862&navertc=6" class="b">[취업] 뜨끈뜨끈 알바정보</a></li>
+		</ul>
+	</div>
+</div>
+<!-- //BIZ -->
+<br style="font-size:2px">
+<!-- EVENT -->
+<table id=lwd cellspacing=0 cellpadding=0>
+<tr><td height=11></td></tr>
+<tr><td class=sbl><div class=fl><a href="/r/e?event"><img src=http://wstatic.naver.com/w/d/tnl21.gif width=34 height=13 style="margin:0 0 4px 1px"><img src="http://wstatic.naver.com/w/bu_aw.gif" width=3 height=6 style="margin:0 0 7px 3px"></a></div><div class="fr"><a href="/r/e?event" class="p11 ls1 c">이벤트 홈</a></div></td></tr>
+<tr><td height=9></td></tr>
+
+<tr><td><div class=fl><a href=http://wrd.naver.com/rd.nhn?tb=event_grp&id=1145342716><img src="http://wstatic.naver.com/t/2006/0418/20060418154416.gif" width=58 height=40></a></div><div style="line-height:1.5"><a href=http://wrd.naver.com/rd.nhn?tb=event_grp&id=1145342716><b>봄맞이</b><br>데이트 대작전!</a></div></td></tr>
+<tr><td height=5></td></tr><tr><td height=17>&middot; <a href="http://wrd.naver.com/rd.nhn?tb=event_grp&id=1144215361" >A+ 받는 가장 확실한 방법</a></td></tr><tr><td height=17>&middot; <a href="http://wrd.naver.com/rd.nhn?tb=event_grp&id=1138693852" >이젠 전화도 PC로 걸면 무료!</a></td></tr><tr><td height=17>&middot; <a href="http://wrd.naver.com/rd.nhn?tb=event_grp&id=1144923016" >유영석 피아노 콘서트 무료초대!</a></td></tr><tr><td height=17>&middot; <a href="http://wrd.naver.com/rd.nhn?tb=event_grp&id=1144922573" >굿바이 솔로! OST가 더 좋다?!</a></td></tr>
+
+</table>
+<!-- //EVENT -->
+</div>
+<div id=cc>
+<div class=newsfrm>
+<!-- NEWS -->
+<table cellspacing=0 cellpadding=0>
+<tr>
+<td width=52><a href=/r/m?news><img src=http://wstatic.naver.com/w/d/tnc11.gif width=47 height=13 style="margin:0 0 2px 1px"></a></td>
+<td width=70 class=p11 style="padding:1px 0 0 5px">4. 19 [수]</td>
+<td width=255 align=right><div class="p11s ba" style="margin:2px 5px 1px 0">
+<img src=http://static.naver.com/w5/ico_ball01.gif width=12 height=14 style=margin-right:2px align=absmiddle><a href=http://news.naver.com/sports/wc2006.nhn?&nt=20060302170242  class='p11'><b>가자! 독일로</b></a> | <a href=http://news.naver.com/sports/?&nt=20060105155702  class='p11'>스포츠</a> | <a href=http://news.naver.com/financial/?&nt=20060105155704  class='p11'>재테크</a> | <a href=http://news.naver.com/weather/?&nt=20060105155705  class='p11'>날씨</a> | <a href=http://news.naver.com/news/broadcast/?&nt=20060225082450  class='p11'>편성표</a></div></td>
+</tr>
+<tr><td height=2></td></tr>
+</table>
+
+<!-- 뉴스 홈 -->
+<table cellspacing=0 cellpadding=0>
+<tr><td colspan=3 height=2 bgcolor=#B7B7B7></td></tr>
+<tr><td height=7 colspan=3></td></tr>
+<tr>
+<td colspan=3><div class=newst>
+<ul>
+<li><a href=http://news.naver.com/hotissue/main.php?hotissue_id=303&nt=20060419003634 class='nv b'>日 독도 수로 탐사선 도쿄 출발…해경, 경비정 18척 집중 배치</a></li><li><a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=102&section_id2=249&menu_id=102&nt=20060418230218>'무심한 세상'…숨진 지 일주일만에 주차장서 발견돼</a></li><li><a href=http://news.naver.com/news/main1.php?mode=LSD&section_id=106&menu_id=106&nt=20060418215404>강혜정 "조승우 오빠와 헤어졌다뇨?"</a> <span>|</span> <a href=http://news.naver.com/sports/index.nhn?category=baseball&nt=20060418215404>한화 유현진, 삼성전 7K 승리</a></li></ul>
+</div></td>
+</tr>
+</table>
+<script language="JavaScript">
+scr = new NvChange();
+scr.name = "scr"; scr.height = 74; scr.width = 250; scr.height_i = 90; scr.width_i = 109;
+scr.scrollspeed = 7000; scr.pausedelay = 2000; scr.pausemouseover = true;
+scr.add("· <a href=http://news.naver.com/news/main1.php?mode=LSD&section_id=102&menu_id=102&nt=20060418194057>\"공익근무 면하게 무거운 형 선고해 주세요\"</a><br>· <a href=http://news.naver.com/hotissue/main.php?hotissue_id=1185&nt=20060418223948 class=b>'론스타 日 탈세' 알면서도 인수 자격 줬다</a><br>· <a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=106&section_id2=222&menu_id=106&nt=20060418194626>교황청 &quot;'다빈치 코드', 예수를 팔지마라&quot;</a><br>· <a href=http://news.naver.com/sports/index.nhn?category=baseball&menu=issue&issue_id=20&mode=main&nt=20060418213408>이승엽, 연속 안타 행진 마감</a><br>");scr.add("· <a href=http://news.naver.com/hotissue/main.php?hotissue_id=1221&nt=20060418221824>오세훈, 2년간 당비 미납…피선거권 논란</a><br>· <a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=101&section_id2=263&menu_id=101&nt=20060418225921 class=b>100배 비싸게 수입? '수상한 수출입' 6만건</a><br>· <a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=104&section_id2=234&menu_id=104&nt=20060418204646>'신의 뜻' 따른 17세 자폭테러범</a><br>· <a href=http://news.naver.com/sports/index.nhn?category=worldfootball&nt=20060418230710>이영표, 리그 랭킹 또 상승 '53위'</a><br>");scr.add("· <a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=102&section_id2=257&menu_id=102&nt=20060418182344&nt=20060418230230>군복 착용 단속법 '헷갈려'…실효성 의문</a><br>· <a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=101&section_id2=261&menu_id=101&nt=20060418212657 class=b>이번엔 신세계…'경영권 승계의혹' 수사 착수</a><br>· <a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=102&section_id2=250&menu_id=102&nt=20060418225310>'맛 없고 양 적은' 급식…학생들은 매점으로</a><br>· <a href=http://news.naver.com/sports/index.nhn?category=mlb&nt=20060418224756>박찬호, '투수들 무덤'서 부활할까</a><br>");scr.addImage("<a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=102&section_id2=255&menu_id=102&nt=20060418223113><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418223108.jpg width=109 height=55><span class=p11>장애인은 '남녀공용<br>화장실' 참아라?</span></a>");scr.addImage("<a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=106&section_id2=221&menu_id=106&nt=20060418215740><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418215612.jpg width=109 height=55><span class=p11>심수봉 \"핑클이<br> 우리 모녀 은인\"</span></a>");scr.addImage("<a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=103&section_id2=239&menu_id=103&nt=20060418205535><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418205532.jpg width=109 height=55><span class=p11>요즘 신차들<br>'빨주노초파남보'</span></a>");scr.addImage("<a href=http://news.naver.com/news/main2.php?mode=LSS2D&section_id=103&section_id2=245&menu_id=103&nt=20060418205313><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418205312.jpg width=109 height=55><span class=p11>남성 소비시대<br>'Mr. 뷰티 공화국'</span></a>");scr.addImage("<a href=http://news.naver.com/hotissue/main.php?hotissue_id=121&nt=20060418185319><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418185319.jpg width=109 height=55><span class=p11>그녀가 대담해졌다<br>봄 패션 섹시 바람</span></a>");scr.addImage("<a href=http://news.naver.com/hotissue/list.php?hotissue_id=1063&group_id=54&nt=20060418182254><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418182235.jpg width=109 height=55><span class=p11>추자현 \"전라 연기,<br>류승범 덕 부담 덜어\"</span></a>");scr.addImage("<a href=http://news.naver.com/sports/wc2006.nhn?ctg=cartoon&nt=20060418180404><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418172335.jpg width=109 height=55><span class=p11>[월드컵 카툰]<br>무결점 스트라이커</span></a>");scr.addImage("<a href=http://news.naver.com/sports/index.nhn?category=worldfootball&menu=issue&issue_id=64&mode=main&nt=20060418155632><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418155611.jpg width=109 height=55><span class=p11>박지성·이영표 손잡은<br> 사진에 네티즌 감동</span></a>");scr.addImage("<a href=http://news.naver.com/financial/?&nt=20060418153730><img src=http://imgnews.naver.com/image/w3/2006/04/18/20060418153707.jpg width=109 height=55><span class=p11>[재테크] 생애 첫 월급<br>어떻게 굴리나</span></a>");</script>
+<div class=news>
+<div class=photo onMouseover="mouse=0" onMouseout="mouse=1" id="img_div">
+<script language="JavaScript">scr.ready();</script>
+</div>
+<div class=plist onMouseover="mouse=0" onMouseout="mouse=1" id="scroll_div">
+<script language="JavaScript">scr.start();</script><div class=nxt><a href=javascript:scr.up();><img src=http://wstatic.naver.com/w5/nxt2.gif width=44 height=10></a></div>
+</div>
+</div>
+<!-- //뉴스 홈 -->
+
+
+
+
+<!-- //NEWS -->
+</div>
+<!-- 증권 -->
+		<script language="JavaScript">
+		var stock_view = 0;
+		land = new NvChange();
+		land.name = "land"; land.height = 26; land.width = 360;
+		land.scrollspeed = 5000; land.pausedelay = 2000; land.pausemouseover = true;
+		land.add("<span id=s1><a href='http://finance.naver.com/?ref=top'><img src=http://wstatic.naver.com/w5/tnc2-12.gif width=30 height=14 style='margin:0 7px -2px 0'></a>&middot; <a href='http://land.naver.com/news/hotnews_list.php?ref=top'>몰아치는 부동산대책</a></span><span id=s2>&middot; <a href='http://land.naver.com/news/theme_main.php?ref=top'>판교 청약 경쟁률 저조</a></span>");
+land.add("<span id=s1><a href='http://finance.naver.com/?ref=top'><img src=http://wstatic.naver.com/w5/tnc2-12.gif width=30 height=14 style='margin:0 7px -2px 0'></a>&middot; <a href='http://rmall.land.naver.com/pankyo/c_com/n_list.asp?ref=top'>판교 뭐든지물어보세요</a></span><span id=s2>&middot; <a href='http://stock.naver.com/invest/market_special.nhn?ref=top'>투데이 특징주 포커스</a></span>");
+land.add("<span id=s1><a href='http://finance.naver.com/?ref=top'><img src=http://wstatic.naver.com/w5/tnc2-12.gif width=30 height=14 style='margin:0 7px -2px 0'></a>&middot; <a href='http://stock.naver.com/news/themenews_list.nhn?id=20060406102750&ref=top'>1분기 실적 예상 분석</a></span><span id=s2>&middot; <a href='http://land.naver.com/community/board/index.nhn?bid=qna&ref=top'>부동산 전문가무료상담</a></span>");
+land.add("<span id=s1><a href='http://finance.naver.com/?ref=top'><img src=http://wstatic.naver.com/w5/tnc2-12.gif width=30 height=14 style='margin:0 7px -2px 0'></a>&middot; <a href='http://money.naver.com/goods/tactics_list.nhn?kind=fund&ref=top'>해외펀드 변동성 위험</a></span><span id=s2>&middot; <a href='http://insvalley.naver.com/event/e060401/e060401_01.jsp?ref=top'>보험이벤트-봄소풍 한방에</a></span>");
+land.add("<span id=s1><a href='http://finance.naver.com/?ref=top'><img src=http://wstatic.naver.com/w5/tnc2-12.gif width=30 height=14 style='margin:0 7px -2px 0'></a>&middot; <a href='http://stock.naver.com/news/news_list.nhn?mode=STOCK&section_id=main&ref=top'>삼성전자와 통신주 랠리</a></span><span id=s2>&middot; <a href='http://naver.taein.co.kr/event/champ/front/050110.php?ref=top'>적중! 낙찰가를 맞춰라!</a></span>");
+land.add("<span id=s1><a href='http://finance.naver.com/?ref=top'><img src=http://wstatic.naver.com/w5/tnc2-12.gif width=30 height=14 style='margin:0 7px -2px 0'></a>&middot; <a href='http://money.naver.com/desk/tactics_list.nhn?kind=point&ref=top'>금리 상승기 투자전략</a></span><span id=s2>&middot; <a href='http://money.naver.com/desk/today_list.nhn?ref=top'>韓증시 2000 넘는다</a></span>");
+
+		</script>
+
+		<div class=stock2 id=fi_ctns style='display:none'>
+        <script>var img_url="", link_url="";</script>
+
+		<script>
+		var img_url = "http://wstatic.naver.com/t/2006/0414/20060414190814.gif";
+		var link_url = "http://wrd.naver.com/rd.nhn?tb=finance&id=1144997658&navertc=6";
+		</script>
+		<script language="JavaScript">land.start();</script>
+		</div>
+		<script language="JavaScript">
+		function ct_bn_ck()
+		{
+			var edate   = new Date;
+			edate.setDate(edate.getDate()+1);
+			edate.setHours(0,0,0);
+			setCookie("ct_bn_cl", "18", edate);
+		}
+		function ct_bn_cl()
+		{
+			ct_bn_ck();
+
+			document.getElementById('fi_ctns').style.display = '';
+			document.getElementById('ct_bn').style.display = 'none';
+		}
+		function ct_bn_go()
+		{
+			window.location.href = link_url;
+
+		}
+		document.write("<div class=stock2 id=ct_bn style=\"display:none\">");
+        if( img_url != "" ) document.write("<img src=\"" + img_url + "\" width='377' height='30' alt='' border='0' usemap='#ct_bn'>");
+        document.write("</div>");
+		</script>
+		<map name='ct_bn'>
+		<area alt='' coords='25,4,337,26' href='javascript:ct_bn_go();'>
+		<area alt='닫기' coords='353,6,371,22' href='javascript:ct_bn_cl();'>
+		</map>
+
+		<script language="JavaScript">
+		if( img_url == "" || getCookie("ct_bn_cl") == "18" || getCookie("stock_promotion_close") == "18")
+		{
+			document.getElementById('fi_ctns').style.display = '';
+			document.getElementById('ct_bn').style.display = 'none';
+		}
+		else
+		{
+			document.getElementById('fi_ctns').style.display = 'none';
+			document.getElementById('ct_bn').style.display = '';
+		}
+		</script>
+		
+<!-- //증권 -->
+
+ 
+
+
+
+    
+    		<table width=377 cellspacing=0 cellpadding=0>
+		<tr><td class=cnt_t></td></tr>
+		<tr>
+		<td class=bx align=right>
+			<table width=366 cellspacing=0 cellpadding=0>
+			<tr>
+			<td colspan=2 style="padding:5px 0 5px 0"><img src=http://wstatic.naver.com/w5/tnc512.gif width=92 height=13></td></tr>
+			<tr valign=top>
+
+			<td width=110 class=p11 align=center><a href=http://wrd.naver.com/rd.nhn?tb=center2&id=1145326908&navertc=6><img src=http://wstatic.naver.com/t/2006/0418/20060418112131.jpg width=109 height=55 style="margin-bottom:3px"><br>휴대폰의 변천사</a></td>
+			<td width=256>
+				<div class=cnt style="margin:1px 0 0 0">
+				<ul>
+				<li><a href=http://wrd.naver.com/rd.nhn?tb=center2&id=1145328474&navertc=6 class='b'>일본이 포기 안 하는 이유? - 독도의 가치</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center2&id=1145327401&navertc=6>다리를 꼬고 앉는 습관은 몸에 좋지 않아?</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center2&id=1145352708&navertc=6>마른오징어를 구울때 오그라드는 이유는?</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center2&id=1145352511&navertc=6>방법이 문제? - 암기력을 높여주는 노하우</a></li>				</ul>
+				</div>
+			</td>
+			</tr>
+			<tr><td height=1></td></tr>
+			</table>
+		</td>
+		</tr>
+		<tr><td class=cnt_b></td></tr>
+		<tr><td id=mb_height></td></tr>		</table>
+
+    		<table width=377 cellspacing=0 cellpadding=0>
+		<tr><td class=cnt_t></td></tr>
+		<tr>
+		<td class=bx align=right>
+			<table width=366 cellspacing=0 cellpadding=0>
+			<tr>
+			<td colspan=2 style="padding:5px 0 5px 0"><img src=http://wstatic.naver.com/w5/tnc32.gif width=89 height=14></td></tr>
+			<tr valign=top>
+
+			<td width=110 class=p11 align=center><a href=http://wrd.naver.com/rd.nhn?tb=center1&id=1145342249&navertc=6><img src=http://wstatic.naver.com/t/2006/0418/20060418181209.jpg width=109 height=55 style="margin-bottom:3px"><br>나무젓가락의 변신!</a></td>
+			<td width=256>
+				<div class=cnt style="margin:1px 0 0 0">
+				<ul>
+				<li><a href=http://wrd.naver.com/rd.nhn?tb=center1&id=1145262006&navertc=6>수납형 벽난로? 그까이꺼 이렇게 만들어봐!</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center1&id=1145342514&navertc=6 class='b'>로봇이 축구를 한다고? 헉, 공격 수비까지</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center1&id=1145353900&navertc=6>여드름에 좋아!… 삼백초 레몬 스킨 만들기</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center1&id=1145354194&navertc=6>어젯밤 내가 클럽에 간 걸 어떻게 알았지?</a></li>				</ul>
+				</div>
+			</td>
+			</tr>
+			<tr><td height=1></td></tr>
+			</table>
+		</td>
+		</tr>
+		<tr><td class=cnt_b></td></tr>
+		<tr><td id=mb_height></td></tr>		</table>
+
+    		<table width=377 cellspacing=0 cellpadding=0>
+		<tr><td class=cnt_t></td></tr>
+		<tr>
+		<td class=bx align=right>
+			<table width=366 cellspacing=0 cellpadding=0>
+			<tr>
+			<td colspan=2 style="padding:5px 0 5px 0"><img src=http://wstatic.naver.com/w5/tit_happylife.gif width=86 height=14></td></tr>
+			<tr valign=top>
+
+			<td width=110 class=p11 align=center><a href=http://wrd.naver.com/rd.nhn?tb=center4&id=1145251387&navertc=6><img src=http://wstatic.naver.com/t/2006/0417/20060417142229.jpg width=109 height=55 style="margin-bottom:3px"><br>길거리 슈퍼카 모임</a></td>
+			<td width=256>
+				<div class=cnt style="margin:1px 0 0 0">
+				<ul>
+				<li><a href=http://wrd.naver.com/rd.nhn?tb=center4&id=1144991895&navertc=6>쏘렌토, 렉스턴, 싼타페, 시승기 총정리 </a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center4&id=1144907501&navertc=6>동대문에서 쇼핑하다 배고파서 먹은 것들 </a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center4&id=1145257874&navertc=6 class='b'>맛에도 포스가? 자취생의 비빔면 비법전수</a></li>				<li><a href=http://wrd.naver.com/rd.nhn?tb=center4&id=1144981116&navertc=6>에버랜드 자유이용권 뽑아주면 안 되겠니?</a></li>				</ul>
+				</div>
+			</td>
+			</tr>
+			<tr><td height=1></td></tr>
+			</table>
+		</td>
+		</tr>
+		<tr><td class=cnt_b></td></tr>
+		<tr><td id=mb_height></td></tr>		</table>
+
+    <div id="vod">
+	<span id="thum1" class=b><a href="http://wrd.naver.com/rd.nhn?tb=center3&id=1145242555&navertc=6"><img src="http://wstatic.naver.com/t/2006/0417/20060417115541.jpg" alt="쌍춘년 결혼열풍">쌍춘년 결혼열풍</a></span>
+	<span id="thum2" ><a href="http://wrd.naver.com/rd.nhn?tb=center3&id=1145259611&navertc=6"><img src="http://wstatic.naver.com/t/2006/0417/20060417164009.jpg" alt="기사회생! 임요환">기사회생! 임요환</a></span>
+	<span id="thum3" ><a href="http://wrd.naver.com/rd.nhn?tb=center3&id=1145242304&navertc=6"><img src="http://wstatic.naver.com/t/2006/0417/20060417115143.jpg" alt="장나라의 털기춤!">장나라의 털기춤!</a></span>
+</div>
+
+    
+
+
+</div>
+<div id="cr">
+<div id="ppl">
+<iframe src=http://nv2.ad.naver.com/adshow?unit=002C width=191 height=150 border=0 frameborder=0 scrolling=no marginheight=0 marginwidth=0 allowtransparency=true id=f191150></iframe>
+
+</div>
+
+<!-- 쇼핑박스 -->
+<!-- keyword -->
+<table width=100% cellspacing=0 cellpadding=0 bgcolor=#EFEFEF>
+<tr><td height=5></td></tr>
+<tr>
+<td height=19 width=75 align=center nowrap><a href='http://shopping.naver.com/n.nhn?no=38'><img src=http://wstatic.naver.com/w/d/tnr2.gif width=66 height=13></a></td>
+<td width=100%>
+<div style='width:111px;height:19px' class='xbx'>
+<a href='http://shopping.naver.com/n.nhn?no=892' target=_blank>엠플</a> | <a href='http://shopping.naver.com/n.nhn?no=1029' target=_top>원피스</a> | <a href='http://shopping.naver.com/n.nhn?no=1027' target=_top>싸이언</a></div>
+</td>
+</tr>
+</table>
+<!--// keyword -->
+
+<table width=100% cellspacing=0 cellpadding=0 style='border:5px solid #EFEFEF'>
+<tr>
+<td align=center>
+	<!-- premium -->
+	<table width=166 cellspacing=0 cellpadding=0>
+	<tr>
+	<td class=ls1 style='padding:5px 0 4px 0'>
+	· <a href='http://shopping.naver.com/n.nhn?no=53' target=_blank class=p11>공동구매</b></a>
+	· <a href='http://shopping.naver.com/n.nhn?no=1' target=_blank class=p11><b>특가구매</b></a>
+	· <a href='http://shopping.naver.com/n.nhn?no=4' target=_blank class=p11>옥션</b></a>
+	· <a href='http://shopping.naver.com/n.nhn?no=6' target=_blank class=p11>동대문</b></a>
+<br>	· <a href='http://shopping.naver.com/n.nhn?no=5' target=_blank class=p11>해외쇼핑</b></a>
+	· <a href='http://shopping.naver.com/n.nhn?no=66' target=_blank class=p11>제로마진</b></a>
+	· <a href='http://shopping.naver.com/n.nhn?no=509' target=_blank class=p11><b>백화점</b></a>
+	· <a href='http://shopping.naver.com/n.nhn?no=538' target= class=p11>침구</b></a>
+	</td>
+	</tr>
+	</table>
+	<!--// premium -->
+
+	<!-- image -->
+	<div id=sbimg1>
+	<table width=170 cellspacing=0 cellpadding=0>
+	<tr align=center valign=top>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1085' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114532734960763000.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>에어워크T<br>단독7,800</span></a></td>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1105' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114534867389174000.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>주띠 큐티화<br>오늘 29,900</span></a></td>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1097' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114533795241265700.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>세트5,800원<br>배송도 무료!</span></a></td>
+	</tr>
+	<tr><td height=7></td></tr>
+	<tr align=center valign=top>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=992' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114500089614887900.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>공짜 DMB<br>10명께드림</span></a></td>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1102' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114534480034373600.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>최고 48%↓<br>봄마감세일</span></a></td>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1025' target=_top><img src='http://imgshopping2.naver.com/admin/shopping_box/114507901176537000.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>패션리더의<br>핫!로맨틱룩</span></a></td>
+	</tr>
+	<tr><td height=6></td></tr>
+	<tr><td height=1 bgcolor=#DEDEDE colspan=3></td></tr>
+	<tr><td height=6></td></tr>
+	</table>
+	</div>
+
+	<div id=sbimg2 style='display:none;'>
+	<table width=170 cellspacing=0 cellpadding=0>
+	<tr align=center valign=top>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1085' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114532734960763000.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>에어워크T<br>단독7,800</span></a></td>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1105' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114534867389174000.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>주띠 큐티화<br>오늘 29,900</span></a></td>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1097' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114533795241265700.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>세트5,800원<br>배송도 무료!</span></a></td>
+	</tr>
+	<tr><td height=7></td></tr>
+	<tr align=center valign=top>
+	<td width=33%><a href='http://shopping.naver.com/n.nhn?no=1019' target=_blank><img src='http://imgshopping2.naver.com/admin/shopping_box/114500942975225200.gif' width=51 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>LG 사이언<br>보조금찬스!</span></a></td>
+	<td width=66% colspan=2><a href='http://shopping.naver.com/n.nhn?no=1074' target=_top><img src='http://imgshopping2.naver.com/admin/shopping_box/114527084716934700.gif' width=107 height=42 style='margin-bottom:3px'><br><span class='p11 ls1'>엠플!! 뉴비틀 최대10대,<br>100만원 돈다발을 쏜다!</span></a></td>
+	</tr>
+	<tr><td height=6></td></tr>
+	<tr><td height=1 bgcolor=#DEDEDE colspan=3></td></tr>
+	<tr><td height=6></td></tr>
+	</table>
+	</div>
+	<script>initShoppingbox();</script>
+	<!--// image -->
+
+	<table width=165 cellspacing=0 cellpadding=0>
+	<!-- mall -->
+	<tr>
+	<td>
+		<table width=100% cellspacing=0 cellpadding=0 border=0>
+		<tr>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=16' target=_blank class=ls1>삼성몰</b></a></td>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=23' target=_blank class=ls1>제로마켓</b></a></td>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=55' target=_blank class=ls1>e스토어</b></a></td>
+		</tr>
+		<tr>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=52' target=_blank class=ls1>CSclub</b></a></td>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=50' target=_blank class=ls1><b>캐쉬백몰</b></a></td>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=29' target=_blank class=ls1>이마트몰</b></a></td>
+		</tr>
+		<tr>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=41' target=_blank class=ls1>신세계몰</b></a></td>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=7' target=_blank class=ls1><b>GS이숍</b></a></td>
+		<td height=18><a href='http://shopping.naver.com/n.nhn?no=9' target=_blank class=ls1><b>옥션특가</b></a></td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	<!--// mall -->
+
+	<!-- event1 -->
+	<tr><td height=5></td></tr>
+	<tr><td height=1 bgcolor=#DEDEDE colspan=3></td></tr>
+	<tr><td height=7></td></tr>
+	<tr><td height=55 valign=top colspan=3>
+	<script>
+	shop = new NvChange();
+	shop.name = 'shop'; shop.height = 50; shop.width = 170;
+	shop.scrollspeed = 10000; shop.pausedelay = 2000; shop.pausemouseover = true; shop.item_position='relative';
+	shop.add("&middot; <a href='http://shopping.naver.com/n.nhn?no=1013' target=_top class=ls1>메트로시티 여구두 89,000원</a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=64' target=_top class=ls1><b>가파치 봄정기 세일</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=68' target=_top class=ls1>클렌징 인기상품 모음</b></a>");
+	shop.add("&middot; <a href='http://shopping.naver.com/n.nhn?no=14' target=_top class=ls1>헌트 브라 5,000/팬티 2,000</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=30' target=_top class=ls1><b>LA Gear 등산티 5,000원 균일</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=63' target=_top class=ls1>최고 상품평 탑 50선</b></a>");
+	shop.add("&middot; <a href='http://shopping.naver.com/n.nhn?no=39' target=_top class=ls1>열명이 모이면 DMB가 공짜</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=57' target=_top class=ls1><b>무료배송 세척고구마 9,500원</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=51' target=_top class=ls1>떠먹는 유기농 이유식</b></a>");
+	shop.add("&middot; <a href='http://shopping.naver.com/n.nhn?no=761' target=_top class=ls1>Men's Bag/Shoes 세일</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=11' target=_top class=ls1><b>감각코디 특별한 경품까지</b></a><br> &middot; <a href='http://shopping.naver.com/n.nhn?no=70' target=_top class=ls1>2006 리바이스 최저가전</b></a>");
+	</script>
+	<div style='line-height:1.5' onMouseover='mouse=0' onMouseout='mouse=1' id='scroll_div'>
+	<script>shop.start();</script>
+	<div style='position:relative; left:125; top:38; width:37px'><a href=javascript:shop.up();><img src=http://wstatic.naver.com/w5/nxt2.gif width=44 height=10></a></div>
+	</div>
+	</td></tr>
+	<!--// event1 -->
+
+	<!-- event2 -->
+	<tr><td height=6></td></tr>
+	<tr><td style='line-height:1.5'>&middot; <a href='http://shopping.naver.com/n.nhn?no=987' target=_blank class=ls1><b>히트 로레알퍼팩트 슬림 패치</b></a></td></tr>
+	<tr><td height=17>&middot; <a href='http://shopping.naver.com/n.nhn?no=1048' target=_top class=ls1>컴퓨터까지! 모든상품 10%쿠폰</a></td></tr>
+	<!--// event2 -->
+	</table>
+</td>
+</tr>
+<tr><td height=7></td></tr>
+</table>
+<!--// 쇼핑박스 -->
+
+<table width=100% cellspacing=0 cellpadding=0>
+<tr><td height=7></td></tr>
+<tr><td><a href="http://wrd.naver.com/rd.nhn?tb=banner&id=1144232153"><img src="http://wstatic.naver.com/t/2006/0405/20060405191534.gif" width="191" height="106"></a></tr>
+</table>
+</div>
+</div>
+<div id=servicemap>
+<table width=784 cellpadding=0 cellspacing=0 border=0>
+<tr bgcolor=E4E4E4>
+<td width=74 height=26 align=right nowrap><a href=/r/d?nboard/nboard/list.php?board_id=nvnews><img src=http://wstatic.naver.com/w/tit_notice.gif width=49 height=15 align=absmiddle></a> <img src=http://wstatic.naver.com/w/bu_aw.gif width=3 height=6 align=absmiddle></td>
+<td width=230 style='padding:2 0 0 7' nowrap><a name=dir>&middot;</a>&nbsp;<a href="http://wrd.naver.com/rd.nhn?tb=notice&id=1144917836">개인정보보호정책이 개정됩니다.</a><br></td>
+<td width=93 style='padding:2 0 0 0' nowrap>&middot;&middot;&middot;<a href="/r/d?nboard.naver.com/nboard/list.php?board_id=nvnews" class='p11'>공지사항 홈</a></td>
+<td width=60><a href="/r/d?beta"><img src=http://wstatic.naver.com/w5/tit_beta01.gif width=49 height=16 align=absmiddle alt="베타서비스"></a></td>
+<td style="padding:2 0 0 0"><a href="/r/d?desktop" class="ls1">데스크톱</a> &nbsp;<a href="/r/d?local/photostreet" class="ls1">포토스트리트</a> &nbsp;<a href="/r/d?video.search/search.naver?where=media&query=%BD%BA%C5%B8%C5%A9%B7%A1%C7%C1%C6%AE&hw=1" class="ls1">동영상ㆍ장면검색</a> &nbsp;<a href="/r/d?blogsearch" class="ls1">블로그검색</a></td>
+</tr><tr><td colspan=6 height=4></td></tr>
+</table>
+<table width=784 cellpadding=0 cellspacing=0>
+<tr>
+<td style="padding:10 0 10 15" bgcolor=F4F4F4>
+<table cellpadding=0 cellspacing=0>
+<tr>
+<td width=70 height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?dir><b class=c>디렉토리</b></a></td>
+<td width=310><a href=/r/d?dir/News/Newspapers/>신문</a> &nbsp;<a href=/r/d?dir/Entertainment/Broadcasting_Program/TV/>TV</a> &nbsp;<a href=/r/d?dir/Entertainment/Music/>음악</a> &nbsp;<a href=/r/d?dir/People/>사람들</a> &nbsp;<a href=/r/d?dir/World_and_Travel>여행</a> &nbsp;<a href=/r/d?dir/Leisure_and_Sports/Ball_Sports/Baseball/>야구</a> &nbsp;<a href=/r/d?dir/Company_and_Shopping>쇼핑</a> &nbsp;<a href=/r/d?dir/Game>게임</a> &nbsp;<a href=/r/d?dir/Lifestyle/Health/>건강</a></td>
+<td width=70><span style="color:#FBCA04">&#149;</span> <b class=c>이야기</b></td>
+<td><a href=/r/d?cafe>카페</a> &nbsp;<a href=/r/d?blog>블로그</a> &nbsp;<a href=/r/d?boom>붐</a> &nbsp;<a href=/r/d?worldtown>월드타운</a><span class="tj">new</span> &nbsp;<a href=/r/d?enjoyjapan>인조이재팬</a> &nbsp;<a href=/r/d?homepage>마이홈</a></td>
+</tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?search><b class=c>검색</b></a></td>
+<td><a href=/r/d?kin>지식iN</a> &nbsp;<a href=/r/d?people>인물</a> &nbsp;<a href=/r/d?km>지식시장</a> &nbsp;<a href=/r/d?book>책</a> &nbsp;<a href=/r/d?kref>지식레퍼런스</a> &nbsp;<a href=/r/d?patent>특허</a> &nbsp;<a href=/r/d?stat>통계</a> </td>
+<td><span style="color:#FBCA04">&#149;</span> <b class=c>포토</a></td>
+<td><a href=/r/d?new.photo>포토갤러리</a> &nbsp;<a href=/r/d?imagebingo>포토앨범</a> &nbsp;<a href=/r/d?photo/gallery/dica/>디카정보</a> &nbsp;<a href=/r/d?photo/photodesk/>포토데스크</a>   <a href=/r/d?new.photo/SkopiMain.nhn>사진인화</a></td>
+</tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?dic.naver.com/><b class=c>사전</b></a></td>
+<td><a href=/r/d?endic>영어</a> &nbsp;<a href=/r/d?eedic>영영</a> &nbsp;<a href=/r/d?krdic>국어</a> &nbsp;<a href=/r/d?hanja>옥편</a> &nbsp;<a href=/r/d?jpdic>일어</a> &nbsp;<a href=/r/d?cndic>중국어</a><span class="tj">up</span> &nbsp;<a href=/r/d?terms>용어</a> &nbsp;<a href=/r/d?100>백과사전</a></td>
+<td><span style="color:#FBCA04">&#149;</span> <b class=c>아이템</a></td>
+<td><a href=/r/d?item/skin/SkinShop.jsp target=_blank>스킨샘</a> &nbsp;<a href=/r/d?item/personacon/PersonaconShop.jsp target=_blank>퍼스나콘샘</a>   <a href=/r/d?item/game/GameShop.jsp target=_blank>게임샘</a> &nbsp;<a href=/r/d?item2/FontMain.nhn target=_blank>폰트샘</a> &nbsp;<a href=/r/d?item2/MusicMain.nhn target=_blank>뮤직샘</a></td>
+</tr>
+<tr><td colspan=4 height=3></td></tr><tr><td colspan=4 height=1 bgcolor=E0E0E0></td></tr><tr><td colspan=4 height=7></td></tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?news><b class=c>미디어</b></a></td>
+<td><a href=/r/d?news>뉴스</a> &nbsp;<a href=/r/d?news/sports/index.nhn?category=soccer>축구</a> &nbsp;<a href=/r/d?news/sports/index.nhn?category=baseball>야구</a> &nbsp;<a href=/r/d?news/sports/index.nhn?category=mlb>MLB</a> &nbsp;<a href=/r/d?news/hotissue/>핫이슈</a> &nbsp;<a href=/r/d?news/photo/>포토</a> &nbsp;<a href=/r/d?news/hotissue/cartoon.php>만평</a> &nbsp;<a href=/r/d?news/quiz>시사퀴즈</a> </td>
+<td><span style="color:#FBCA04">&#149;</span> <a href="/r/d?job"><b class=c>취업</b></a></td>
+<td><a href="/r/d?job1/info/">채용정보</a> &nbsp;<a href="/r/d?job1/magazine/">취업매거진</a> &nbsp;<a href=/r/d?job3>알바</a> &nbsp;<a href=/r/d?job10>연봉</a></td>
+</tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?finance><b class=c>금융</b></a></td>
+<td><a href=/r/d?stock>증권</a> &nbsp;<a href=/r/d?land>부동산</a> &nbsp;<a href=/r/d?money>재테크</a> &nbsp;<a href=/r/d?loan>대출</a> &nbsp;<a href=/r/d?credit>신용</a> &nbsp;<a href=/r/d?ins>보험</a> &nbsp;<a href=/r/d?woori>어린이펀드</a></td>
+<td><span style="color:#FBCA04">&#149;</span> <b class=c>내PC</b></td>
+<td><a href="/r/d?desktop">데스크톱</a><span class="tj">new</span> &nbsp;<a href="/r/d?phone">네이버폰</a> &nbsp;<a href="/r/d?toolbar">툴바</a><span class="tj">up</span> &nbsp;<a href="/r/d?file">자료실</a><span class="tj">up</span> &nbsp;<a href="/r/d?security">PC보안</a></td>
+</tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <b class=c>생활</b></td>
+<td><a href=/r/d?local>지역</a> &nbsp;<a href=/r/d?map>지도</a> &nbsp;<a href=/r/d?news/weather/>날씨</a> &nbsp;<a href=/r/d?cook>요리</a> &nbsp;<a href=/r/d?restaurant>맛집</a> &nbsp;<a href=/r/d?travel>여행</a> &nbsp;<a href=/r/d?auto>자동차</a> &nbsp;<a href=/r/d?fortune>운세</a></td>
+<td><span style="color:#FBCA04">&#149;</span> <b class=c>오락</b></td>
+<td><a href=/r/d?comicmall>만화</a> &nbsp;<a href=/r/d?movie>영화</a> &nbsp;<a href=/r/d?music>뮤직</a> &nbsp;<a href=/r/d?vod>VOD</a> &nbsp;<a href=/r/d?vod/aniMain.do>애니</a> &nbsp;<a href=/r/d?vod/broadcastMain.do>방송</a> &nbsp;<a href=/r/d?archlord>아크로드</a></td>
+</tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?bbs.miz><b class=c>여성</b></a></td>
+<td><a href=/r/d?bbs.miz>미즈생각</a> &nbsp;<a href=/r/d?bbs.miz/sarang.php>사랑방</a> &nbsp;<a href=/r/d?bbs.miz/essay.php>에세이러브</a> &nbsp;<a href=/r/d?bbs.miz/dis.php>토론방</a> &nbsp;<a href=/r/d?bbs.miz/poll.php>설문방</a> &nbsp;<a href=/r/d?magazine.book>잡지</a></td>
+<td><span style="color:#FBCA04">&#149;</span> <a href=/r/d?mobile><b class=c>모바일</b></a></td>
+<td><a href=/r/m?mobile/phoneinfo/>폰정보</a>&nbsp;<a href=/r/m?mobile/message/sms/>문자</a> &nbsp;<a href=/r/m?mobile/phonedeco/bell/>벨소리</a>   <a href=/r/d?mobile/phonedeco/ring/>통화연결음</a> &nbsp;<a href=/r/d?mobile/phonegame/>폰게임</a> &nbsp;<a href="/r/d?mobile/phonedeco/character/index.nhn">폰배경</a> &nbsp;<a href="/r/d?mobile/phonephoto/phonezzang/">폰짱</a></td>
+</tr>
+<tr><td colspan=4 height=3></td></tr><tr><td colspan=4 height=1 bgcolor=E0E0E0></td></tr><tr><td colspan=4 height=7></td></tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?jr><b class=c>쥬니버</b></a></td>
+<td>
+<a href=/r/d?jr/donghwa/>동화</a> &nbsp;<a href=/r/d?jr/dongyo>동요</a> &nbsp;<a href=/r/d?jr/comic>만화</a> &nbsp;<a href=/r/d?jr/songbang/cache/gayo.html>노래방</a> &nbsp;<a href=/r/d?jr/wisecamp/>초등학습</a> &nbsp;<a href=/r/d?studyroom.jr/preschool/main.php?id=1>종이접기</a> &nbsp;<a href=/r/d?jr/parents/>학부모방</a></td>
+<td><span style="color:#FBCA04">&#149;</span> <b class=c>비즈니스</b></td>
+<td><a href=/r/d?changup>창업</a> &nbsp;<a href=/r/d?eshop.changup>인터넷소호</a> &nbsp;<a href=/r/d?domain>도메인</a></td>
+</tr>
+<tr>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?www.hangame.com target=_blank><b class=c>한게임</b></a></td>
+<td><a href=/r/d?game3.hangame.com/msduelgo.nhn target=_blank>신맞고</a> &nbsp;<a href=/r/d?game3.hangame.com/poker7.nhn target=_blank>7포커</a> &nbsp;<a href=/r/d?baduk.hangame.com target=_blank>바둑</a>&nbsp;&nbsp;<a href=/r/d?game3.hangame.com/laspoker.nhn target=_blank>라스베가스포커</a> &nbsp;<a href=/r/d?game1.hangame.com/hanyut.nhn target=_blank>윷놀이</a> &nbsp;<a href=/r/d?bout.hangame.com/ target=_blank>로봇게임</a></td>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?shopping><b class=c>쇼핑</b></a></td>
+<td><a href=/r/d?shopping>지식쇼핑</a> &nbsp;<a href=/r/d?shopping>가격비교</a> &nbsp;<a href=/r/d?ticket>예약예매</a> &nbsp;<a href=/r/d?lottery/naver/>복권</a> &nbsp;<a href=/r/d?golfshop>골프</a></td>
+</tr>
+<tr>
+<td height=20></td>
+<td><a href=/r/d?flash.hangame.com/index.nhn target=_blank>플래시게임</a> &nbsp;<a href=/r/d?game1.hangame.com/mahjong.nhn target=_blank>짝맞추기</a> &nbsp;<a href=/r/d?game1.hangame.com/same.nhn target=_blank>세임팡팡</a>&nbsp; <a href=/r/d?golf.hangame.com target=_blank>골프</a> &nbsp;<a href=/r/d?chat.hangame.com/ target=_blank>채팅</a> &nbsp;<a href=/r/d?game3.hangame.com/doublego.nhn target=_blank>더블맞고</a></td>
+<td height=20><span style="color:#FBCA04">&#149;</span> <a href=/r/d?happybean/main/home.jsp><b class=c>해피빈</b></a></td>
+<td><a href=/r/d?happybean/happydona/rdona_list.jsp>함께하는 기부</a> &nbsp;<a href=/r/d?happybean/happylog/recom_list.jsp>해피로그</a><img src=http://wstatic.naver.com/w/bu_aw.gif width=3 height=6 style="margin:0 0 2 100"> <a href=/r/d?/more.html>전체보기</a></td></tr>
+</table>
+</td></tr></table>
+</div>
+<div id="footer">
+<table width=784 cellpadding=0 cellspacing=0><tr><td height=2></td></tr><tr>
+<td height=27 bgcolor=EDEDED style="padding:0 0 0 21"><span class="p11 b">NHN Partners</span><img width=20 height=1>
+
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1014323&src=1002360&br=1002307 target=_blank>SKY</a>　　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1014325&src=1001038&br=1001020 target=_blank>Anycall</a>　　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1014319&src=1001040&br=1001022 target=_blank>우리투자증권</a>　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1014318&src=1004714&br=1004582 target=_blank>현대카드</a>　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1014320&src=1001042&br=1001024 target=_blank>옥션</a>　　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1014324&src=1001043&br=1001025 target=_blank>CYON</a>　　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1039116&src=1004060&br=1003952 target=_blank>G마켓</a>　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1039115&src=1003138&br=1003060 target=_blank>KB국민은행</a>　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1039113&src=1003140&br=1003062 target=_blank>현대자동차</a>　
+<a href=http://nv.ad.naver.com/adclick?unit=002J&ac=1039114&src=1003211&br=1003131 target=_blank>태평양</a>
+
+</td>
+</tr><tr><td height=32 align=center><a href=/r/T?keywordshop/>검색 키워드 광고</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?clickchoice>클릭초이스</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?ad.nhncorp.com>매체광고</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?submit.naver.com/request/expreg_1.html>홈페이지 빠른등록</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?submit/>홈페이지 일반등록</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?localshop/>지역정보 광고</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?local/localsubmit>지역정보 일반등록</a>&nbsp;<span class="ba">|</span>&nbsp;<a href=/r/T?shopping/join/index.nhn>지식쇼핑입점</a></td></tr><tr><td height=1 bgcolor=E1E1E1></td></tr>
+<tr><td valign=top style="padding:6 0 5 3">
+	<a href=/r/T?www.nhncorp.com/ class="p11 ls1" target="_blank">회사소개</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?recruit.nhncorp.com/ target=_blank class="p11 ls1">인재채용</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?www.nhncorp.com/nhn200512/company/contactus.html class="p11 ls1" target="_blank">제휴안내</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?/rules/service.html class="p11 ls1" target="_blank">이용약관</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?/rules/privacy.html class="p11 ls1">개인정보보호정책</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?/rules/youthpolicy.html class="p11 ls1">청소년보호정책</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?/rules/disclaimer.html class="p11 ls1">책임의한계와법적고지</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?/rules/search_policy.html class="p11 ls1">검색결과수집에대한정책</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?nboard.naver.com/nboard/read.php?board_id=nvnews&page=3&nid=78 class="p11 ls1">이메일주소무단수집거부</a>&nbsp;<span class="ba">|</span>
+	<a href=/r/T?help class="p11 ls1">고객센터</a>
+</td></tr><tr><td align=center style="padding-top:10px"><img src=http://wstatic.naver.com/w5/img_tail35.gif width=666 height=21 usemap=#nhn></td></tr></table><br><br></center>
+<map name=nhn><area coords=0,0,69,21 href=/r/T?www.nhncorp.com/><area coords=143,5,198,19 href=/r/T?www.nhncorp.com/><area coords=401,0,468,21 href=/r/T?jr/><area coords=484,0,554,21 href=/r/T?www.hangame.com/ target=_blank><area coords=571,0,609,21 href=/r/T?happybean/main/home.jsp><area coords="629,0,667,21" href=/r/T?bookreading/></map>
+</div>
+
+<script>
+
+
+function getIEVersion(){
+    g=navigator;
+    a=g.userAgent;
+    p=g.appVersion;
+    m=p.indexOf("MSIE");
+
+    if(m!=-1 && a.indexOf("Win") != -1){
+        return parseFloat(p.substring(m+4));
+    }
+
+    return -1;
+}
+
+
+if (getNavigatorType() == 1 && getIEVersion() > 5.4){ // ie && its version > 5.4
+document.write("<div id=ados style=position:absolute;left:50%;top:0;z-index:15;><div id=adspace></div></div>");
+document.write("<div id=adot style=position:absolute;right:50%;top:293;z-index:15;><div id=adti></div></div>");
+document.write("<div id=adom style=position:absolute;left:50%;top:293;z-index:15;><div id=admc></div></div>");
+document.write("<iframe src=http://nv4.ad.naver.com/adshow?unit=002F width=0 height=0 border=0 frameborder=0 scrolling=no marginheight=0 marginwidth=0 id=fmicro></iframe>");
+}
+
+</script>
+</body>
+</html>
+�
